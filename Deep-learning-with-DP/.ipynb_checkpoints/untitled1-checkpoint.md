@@ -147,8 +147,14 @@
         - In the case of synthetic data generated from the target model itself, the attack does not require any prior knowledge about the distribution of the target model's training data.
 
 ---
+## ATTACK
+- Membership Inference Attacks Against Machine Learning Models (2015)
 - Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures(2015)
+- Machine Learning with Membership Privacy using Adversarial Regularization (2018)
+    - C) regularizer는 overfitting을 막아 준다. 이로 인해 information leakage를 얼마나 줄여주는 지에 대한 연구
+## Differential Privacy
+- Privacy-Preserving Deep Learning(2015)
 - Deep Learning with Differential Privacy(2016)
+- Renyi Differential Privacy (2017)
 - Semi-supervised knowledge transfer for deep learning from private training data(2017).
 - Distributed Deep Learning under Differential Privacy with the Teacher-Student Paradigm
-- Model Inversion Attacks that Exploit Conﬁdence Information and Basic Countermeasures
